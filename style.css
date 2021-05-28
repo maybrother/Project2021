@@ -31,3 +31,11 @@ li a.active {
 #center {
  text-align: center;       
 }
+
+#yellowdiv {
+        color: #f3ff00;
+}
+
+#bluediv {
+        color: #5fdae9;
+}
