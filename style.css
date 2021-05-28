@@ -8,34 +8,30 @@ ul {
 }
 
 li {
-    float: left;  
+        float: left;  
 }
 
 li, a {
-    display: block;
-    color: #777;
-    text-align: center;
-    padding: 4px 16px;
-    text-decoration: none;
+        display: block;
+        color: #777;
+        text-align: center;
+        padding: 4px 16px;
+        text-decoration: none;
 }
 
 li a:hover {
-    font-weight: bold;
-}
-
-li a.active {
-    color: white;
-    background-color: #4CAF50;
-}
-
-#center {
- text-align: center;       
-}
-
-#yellowdiv {
         font-weight: bold;
 }
 
-#bluediv {
-        color: #5fdae9;
+li a.active {
+        color: white;
+        background-color: #4CAF50;
+}
+
+#center {
+        text-align: center;       
+}
+
+#greendiv {
+         color: #9fff9e;
 }
