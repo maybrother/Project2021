@@ -1,7 +1,5 @@
 ul {
         list-style-type: none;
-        margin: 0px;
-        padding: 0px;
         overflow: hidden;
         background-color: #f3f3f3;
         border: 1px solid #e7e7e7;
@@ -21,12 +19,20 @@ li, a {
 }
 
 body {
-        margin: 0;
+        margin: 0px;
+}
+
+hr {
+        margin: 0px;
+        padding: 0px;
 }
 
 li a:hover {
-        font-weight: bold;
-        background-color: #f0f0f0;
+        font-weight: bold;      
+}
+
+li:hover {
+        background-color: #ededed;
 }
 
 li a.active {
