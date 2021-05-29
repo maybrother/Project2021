@@ -1,54 +1,55 @@
 <!DOCTYPE html>
+<html>
 
-	<html>
+<head>
 
-		<head>
+<title>Nature & Technologies</title>
 
-			<title>За Нас</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">  
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="https://image.flaticon.com/icons/png/512/2220/2220083.png" type="image/icon type">
 
-		</head>
-		
-		<body background = "https://www.sourceweb.ag/wp-content/uploads/2018/02/about-us.png" >										 
-														 
-			<link rel="stylesheet" href="style.css" type = "text/css">
+</head>
 
-	
-					<ul>
-						<li> <a href = "index.html" >Начало</a> </li>
-						
-						<li> <a class = "active" href = "endangered.html" >Застрашени Видове</a> </li>
-						
-						<li> <a href = ".html" >Lorem Ipsum</a> </li>
-						
-						<li> <a href = "for_us.html" >За Нас</a> </li>
-						
-					</ul>
+<body style = "margin:0">
 
-					<h3> Имена: </h3>
-			
-						<p> Галин Георгиев Георгиев <br>
-			
-						Димитър Миленов Димитров </p>
+<h1 class = "center">Природа и Технологии</h1>
+<h2 class = "center">За нас</h2> <hr>
 
-					<h3> Служебен имейл: </h3>
-			
-						<p> Галин Георгиев Георгиев -gggergiev20@codingburgas.bg<br>
-			
-						Димитър Миленов Димитров - DMDimitrov20@codingburgas.bg</p>
-			
-					<p class = "mix"<h3> Служебен номер: </h3>> Галин: +359-485-555-975 <br>
-			
-					Димитър:  +359-875-559-332 </p>
+<ul>
+        <li> <a href = "index.html" >Начало</a> </li>
+        <li> <a href = "endangered.html" >Застрашени Видове</a> </li>
+        <li> <a href = "help.html" >Как Да Помогнем</a> </li>
+        <li> <a href = "planet.html" >Нашата Планета</a> </li>
+        <li> <a class = "active" href = "for_us.html" >За Нас</a> </li>
+</ul>
 
+<div id = "greendiv">
+<form action = "mailto:galko.georgiev@abv.bg">
+	<div>
+		<label for = "name">Name: </label>
+		<input type = "text" name = "name" placeholder = "Name"/>
+	</div>
 
+	<div>
+		<label for = "email">Email: </label>
+		<input type = "email" name = "email" placeholder = "Email"/>
+	</div>
 
+	<div>
+		<label>Comments: </label>
+		<br>
+		<textarea rows = "15" cols = "30" placeholder = "Comment"></textarea>
+	</div>
 
+	<div>
+		<input type = "submit" name = "submit" value = "Send">
+		<input type = "reset" name = "submit" value = "Clear Form">
+	</div>
+</form>
+</div>
 
+</body>
 
-
-
-
-
-		</body>
-
-	</html>
+</html>
