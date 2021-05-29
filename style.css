@@ -4,6 +4,7 @@ ul {
         overflow: hidden;
         background-color: #f3f3f3;
         border: 1px solid black;
+        text-align: center;
 }
 
 li {
@@ -24,7 +25,7 @@ body {
 }
 
 legend {
-        font-size: 3m;
+        font-size: 25px;
 }
 
 li:hover {
