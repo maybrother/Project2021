@@ -37,7 +37,4 @@ li a.active {
          width: 100%;
          height: 750px;
 }
-
-#h3_for_us {
-        color: yellow;
-}
+p.mix {border-style: blue black blue black;}
