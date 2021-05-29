@@ -15,7 +15,8 @@ li, a {
         display: inline-block;
         text-align: center;
         color: #777;
-        padding: 4px 16px;
+        padding: 4px;
+        margin: 0px;
         text-decoration: none;
 }
 
