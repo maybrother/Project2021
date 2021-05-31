@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
 
 ul {
         list-style-type: none;
@@ -12,7 +12,7 @@ ul {
 
 li {
         border: 1px solid black;
-        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-family: 'Heebo', sans-serif;
 }
 
 li, a {
