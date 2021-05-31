@@ -28,12 +28,8 @@ body {
         left: 0;
 }
 
-h1 {
+.margin {
         margin: 0;
-}
-
-form {
-        margin-top: 15px;
 }
 
 li:hover {
