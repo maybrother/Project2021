@@ -57,6 +57,10 @@ li a.active {
         margin-left: 0;
 }
 
+.leftpic {
+        left: 1;
+}
+
 #greendiv {
          background-color: #9fff9e;
          width: 100%;
@@ -65,8 +69,4 @@ li a.active {
 
 #margindiv {
         margin-left: 10px;
-}
-
-#centerdiv {
-        margin-bottom: 10x;
 }
