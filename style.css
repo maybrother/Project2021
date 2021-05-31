@@ -23,10 +23,6 @@ body {
         margin: 0px;
 }
 
-legend {
-        font-size: 25px;
-}
-
 li:hover {
         background-color: #ededed;
 }
