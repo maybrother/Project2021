@@ -67,6 +67,7 @@ li a.active {
 }
 
 .pictext {
+        width: 200px;
         font-size: 20px;
 }
 
