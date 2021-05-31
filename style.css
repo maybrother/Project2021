@@ -54,7 +54,6 @@ li a.active {
 
 .center {
         text-align: center;
-        margin-left: 0;
 }
 
 .pic {
@@ -76,8 +75,4 @@ li a.active {
          background-color: #9fff9e;
          width: 100%;
          height: 100%;       
-}
-
-#margindiv {
-        margin-left: 10px;
 }
