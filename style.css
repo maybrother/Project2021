@@ -57,8 +57,10 @@ li a.active {
         margin-left: 0;
 }
 
-.leftpic {
-        left: 1;
+.pic {
+        center: 1;
+        border: 1px solid black;
+        width: 
 }
 
 #greendiv {
