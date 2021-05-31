@@ -65,10 +65,10 @@ li a.active {
         width: 50%;
 }
 
-.pictext {
+#pictext {
         max-width: 55%;
         font-size: 20px;
-        text-align: justify;
+        text-align: center;
 }
 
 #greendiv {
