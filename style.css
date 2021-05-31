@@ -23,8 +23,9 @@ li, a {
         text-decoration: none;
 }
 
-body {
+html, body {
         margin: 0px;
+        width: 100%;
         position: absolute;
         top: 0;
         right: 0;
