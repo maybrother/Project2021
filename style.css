@@ -79,7 +79,7 @@ li a.active {
          height: 100%;
 }
 
-.margindiv {
+#margindiv {
         margin: 0;
         padding: 0;
 }
