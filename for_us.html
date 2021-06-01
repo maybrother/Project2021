@@ -6,14 +6,16 @@
 <title>Contact us</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- To be compatible with other devices-->
 <meta charset="UTF-8">  
-<link rel="stylesheet" href="style.css" type = "text/css">
+<link rel="stylesheet" href="style.css">
+<!-- To connect with the .css file-->
 <link rel="icon" href="https://image.flaticon.com/icons/png/512/2220/2220083.png" type="image/icon type">
-
+<!-- Icon-->
 
 </head>
 
-<body style = "margin:0">
+<body>
 
 <h1 class = "center">Природа и Технологии</h1>
 <h2 class = "center">За нас</h2>
@@ -26,31 +28,33 @@
         <li> <a class = "active" href = "for_us.html" >За Нас</a> </li>
 </ul>
 
-<div id = "greendiv">
 <form action = "mailto:GGGeorgiev20@codingburgas.bg" class = "center">
+	<!--Form, which sends an email to the email above once submitted-->
 	<legend class = "center">Свържете се с нас!<legend>
+	<!--Title of the form-->
 	<div>
 		<label for = "name"><b>Name: </b></label>
 		<input type = "text" name = "name" placeholder = "Name" required/>
 	</div>
+	<!--First text box-->
 
 	<div>
 		<label for = "email"><b>Email: </b></label>
 		<input type = "email" name = "email" placeholder = "Email" required/>
 	</div>
-
+	<!--Second text box-->
 	<div>
 		<label><b>Comments: </b></label>
 		<br>
 		<textarea rows = "30" cols = "60" placeholder = "Comment" required></textarea>
 	</div>
-
+	<!--Third text box-->
 	<div>
 		<input type = "submit" name = "submit" value = "Send">
 		<input type = "reset" name = "submit" value = "Clear Form">
 	</div>
+	<!--Fourth text box-->
 </form>
-</div>
 
 </body>
 
