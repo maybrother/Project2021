@@ -85,3 +85,8 @@ li a.active {
          height: 100%;
          bottom: 1;
 }
+
+.margindiv {
+        margin: 0;
+        padding: 0;
+}
