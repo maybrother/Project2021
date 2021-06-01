@@ -66,6 +66,10 @@ li a.active {
         width: 50%;
 }
 
+.picleft {
+        border: 1px solid black;
+}
+
 .pictext {
         font-size: 20px;
 }
