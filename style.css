@@ -70,6 +70,10 @@ li a.active {
         float: left;
         margin: 15px;
 }
+.texthome {
+        margin-top: 15px;
+        font-size: 20px;
+}
 
 .pictext {
         font-size: 20px;
