@@ -68,6 +68,7 @@ li a.active {
 
 .picleft {
         float: left;
+        margin-right: 15px;
 }
 
 .pictext {
