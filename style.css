@@ -56,11 +56,11 @@ li a.active {
 
 .pic {
         border: 1px solid black;
-        height: 30%;
+        height: 45%;
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 30%;
+        width: 40%;
 }
 
 .picleft {
