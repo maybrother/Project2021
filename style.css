@@ -67,7 +67,7 @@ li a.active {
 }
 
 .picleft {
-        border: 1px solid black;
+        float: left;
 }
 
 .pictext {
